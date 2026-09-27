@@ -1,8 +1,13 @@
 {
   "galgames": [
     {
+      "date": "2026-09-30",
+      "title": "《白线》发售",
+      "desc": "国gal"
+    },
+    {
       "date": "2026-12-31",
-      "title": "越界恋人",
+      "title": "《越界恋人》发售",
       "desc": "水晶社新作 tamoko发行"
     },
     {
@@ -166,7 +171,7 @@
       "desc": "minori制作 sunflower发行"
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-02",
       "title": "《兰斯7 战国Rance》上线steam",
       "desc": "alicesoft制作 mg kg发行"
     }
